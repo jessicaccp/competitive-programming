@@ -1,5 +1,4 @@
 # competitive-programming
-Algumas soluções e práticas.
 
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/2096)
 - [Sphere Online Judge](http://br.spoj.com/users/jessicaccp/)
